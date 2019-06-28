@@ -3,6 +3,6 @@ Python Codes for Scraping Some Websites
 lotto_ph.py - Scrapes the winning numbers for the Philippine Lotto and stores them in a database.
 
 pse_symbols.py - Scrapes the list of Stock Symbols and other details from the Philippine Stock 
-    Exchange Websites.
+    Exchange Website.
 
 
